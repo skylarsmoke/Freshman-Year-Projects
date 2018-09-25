@@ -1,0 +1,88 @@
+body
+{
+	text-align: center;
+}
+
+#wrapper
+{
+	width: 650px;
+	margin: auto;
+	padding: 0px 0px 0px 0px;
+	text-align: left;
+	background-color: white;
+	
+}
+
+#logo img
+{
+	width: 200px;
+	padding-left: 225px;
+}
+
+#nav
+{
+	font-size: 15px;
+	font-family: sans-serif, Times;
+}
+
+#nav a:link
+{
+	color: black;
+	text-decoration: none;
+}
+
+#nav a:visited
+{
+	color: black;
+	text-decoration: none;
+}
+
+#nav a:hover
+{
+	color: #849694;
+	text-decoration: none;
+}
+
+#nav a:active
+{
+	color: #849694;
+	text-decoration: none;
+}
+
+#navholder #nav li
+{
+	padding-left: 0px;
+	list-style-type: none;
+	display: inline;
+	padding-right: 10px;
+}
+
+#photo img
+{
+	width: 650px;
+	border: 2px solid black;
+}
+
+#leftcol
+{
+	height: 75px;
+	float: left;
+	width: 300px;
+	font-family: sans-serif, Times;
+}
+
+#rightcol
+{
+	height: 75px;
+	float: right;
+	width: 300px;
+	font-family: sans-serif, Times;
+}
+
+#trademark
+{
+	text-align: center;
+	font-family: verdana, sans-serif;
+	font-size: 10px;
+	padding-top: 130px;
+}
